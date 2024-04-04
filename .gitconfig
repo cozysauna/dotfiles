@@ -3,3 +3,4 @@
 [alias]
 	co = checkout
 	br = branch
+	graph = log --graph --date=short --abbrev-commit --pretty=oneline
